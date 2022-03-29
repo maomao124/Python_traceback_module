@@ -1,0 +1,60 @@
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 39, in <module>
+    main()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 22, in main
+    firstMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 26, in firstMethod
+    secondMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 30, in secondMethod
+    thirdMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 34, in thirdMethod
+    raise SelfException("自定义异常信息")
+SelfException: 自定义异常信息
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 39, in <module>
+    main()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 22, in main
+    firstMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 26, in firstMethod
+    secondMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 30, in secondMethod
+    thirdMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 34, in thirdMethod
+    raise SelfException("自定义异常信息")
+SelfException: 自定义异常信息
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 39, in <module>
+    main()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 22, in main
+    firstMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 26, in firstMethod
+    secondMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 30, in secondMethod
+    thirdMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 34, in thirdMethod
+    raise SelfException("自定义异常信息")
+SelfException: 自定义异常信息
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 39, in <module>
+    main()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 22, in main
+    firstMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 26, in firstMethod
+    secondMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 30, in secondMethod
+    thirdMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 34, in thirdMethod
+    raise SelfException("自定义异常信息")
+SelfException: 自定义异常信息
+Traceback (most recent call last):
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 39, in <module>
+    main()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 22, in main
+    firstMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 26, in firstMethod
+    secondMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 30, in secondMethod
+    thirdMethod()
+  File "H:\程序\大三下期\Python_traceback模块\test2.py", line 34, in thirdMethod
+    raise SelfException("自定义异常信息")
+SelfException: 自定义异常信息
